@@ -10,10 +10,10 @@ body{
 }
 
 .paragraph{
-    margin-bottom: 5%;
+    margin-bottom: 5%; font-size: 22px;
 }
 
-.blue-button{
+.orange-button{
     color: #ffa600; text-decoration: none;background-color: #f1a500; color: white; padding: 10px 20px; border-radius: 5px; font-weight: 600;
 }
 
@@ -28,7 +28,7 @@ body{
 }
 
 .half-width img{ margin-left: 20%;
-    width: 70%; 
+    width: 75%; 
 }
 
 
@@ -46,6 +46,10 @@ padding: 40px; border-radius: 10px; text-align: center; margin: 50px; background
 
 .mission{ margin-top: 100px;
     text-align: center; font-size: 40px; font-weight: 800;
+}
+
+.building{
+     font-size: 20px; background-image: url(images/shapes/shape-1.png); background-size: 200px; background-repeat: no-repeat; background-position: left;
 }
 
 
